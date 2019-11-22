@@ -57,5 +57,5 @@ steps:
 ```
 
 Here is a screen from the Azure KeyVault
+![BillImage](https://github.com/ManuelGalindo/PipelineReplaceTokens/blob/master/BillVault.PNG)
 
-[[https://github.com/ManuelGalindo/PipelineReplaceTokens/blob/master/BillVault.PNG|alt=BillImage]]
