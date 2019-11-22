@@ -55,3 +55,7 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'Container'
 ```
+
+Here is a screen from the Azure KeyVault
+
+[[https://github.com/ManuelGalindo/PipelineReplaceTokens/blob/master/BillVault.PNG|alt=BillImage]]
